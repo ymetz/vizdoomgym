@@ -8,7 +8,7 @@ setup(
     author_email="simon.hakenes@ini.rub.de",
     install_requires=[
         "gym",
-        "vizdoom@https://github.com/mwydmuch/ViZDoom/tarball/1.1.8pre",
+        "vizdoom",
         "numpy",
         "pre-commit",
     ],
